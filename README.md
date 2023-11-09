@@ -1,4 +1,4 @@
-# Astro With Tailwind Starter
+# Nermy
 <div align="center">
 
 ![cover-image](header.png)
